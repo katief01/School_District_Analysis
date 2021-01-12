@@ -8,9 +8,9 @@ Module 4
   * District Summary: 
       The district summary results after THS 9th grade scores were removed did not change the output dramatically.  Both summaries saw an average math score of 79 and an average reading score of 82.
   * School Summary: 
-      The school summary showed quite a big difference between the two analyses.  The THS scores in the original analysis were at 93 for math and 97 for reading.  This repeated analysis with 9th grade scores removed showed an 83 average for math and 84 for reading. 
+      The school summary showed quite a big difference between the two analyses.  The THS scores in the original analysis were at 93 for math and 97 for reading.  This repeated analysis with 9th grade scores removed showed an 83 average for math and 84 for reading, as noted in this Jupyter Notebook file - PyCitySchools_Challenge.ipynb.
   * Thomas High School's performance relative to the other schools:  
-      The school's performance went down dramatically after removing the 9th grade scores.  The overall pass percentage went ofrom 90% down to 64%. The percent of students passing math went from 93% down to 67%.  The percent of students passing reading went from 97% down to 70%.
+      The school's performance went down dramatically after removing the 9th grade scores.  The overall pass percentage went ofrom 90% down to 64%. The percent of students passing math went from 93% down to 67%.  The percent of students passing reading went from 97% down to 70%, also seen in this file - PyCitySchools_Challenge.ipynb.
   * Affect when replacing Thomas High School ninth-grade scores on:
       * Math and reading scores by grade: The 10th-12th grade math and reading scores stayed the same for both analyses since 9th grade math and reading scores were removed for the repeated analysis.
       * Scores by school spending: The scores in this category stayed very similar exect in the $630 - $644 category. This makes sense because THS falls into this category with $638 in spending per student.
